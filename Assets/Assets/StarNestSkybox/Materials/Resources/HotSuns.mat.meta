@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d5552e423c7dbe42ba9aea2a0ae7966
+timeCreated: 1445908973
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63726
+  packageName: Star Nest Skybox
+  packageVersion: 1.1.1
+  assetPath: Assets/StarNestSkybox/Materials/Resources/HotSuns.mat
+  uploadId: 122263

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0dab155e43d56540934277edfc76899
+timeCreated: 1465824193
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63726
+  packageName: Star Nest Skybox
+  packageVersion: 1.1.1
+  assetPath: Assets/StarNestSkybox/Materials/Resources/Normal_GreyClamp.mat
+  uploadId: 122263

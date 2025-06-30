@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4141a02bb8caed14da04ed9dd606f330
+timeCreated: 1445918889
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63726
+  packageName: Star Nest Skybox
+  packageVersion: 1.1.1
+  assetPath: Assets/StarNestSkybox/hsv.cginc
+  uploadId: 122263

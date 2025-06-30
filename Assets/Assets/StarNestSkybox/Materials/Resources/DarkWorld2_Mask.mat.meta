@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1b7c526542073b4da029e8454cae2a8
+timeCreated: 1464279690
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63726
+  packageName: Star Nest Skybox
+  packageVersion: 1.1.1
+  assetPath: Assets/StarNestSkybox/Materials/Resources/DarkWorld2_Mask.mat
+  uploadId: 122263

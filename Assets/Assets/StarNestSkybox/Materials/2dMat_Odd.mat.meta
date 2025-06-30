@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ecc2518af6faf4408381ab3894f07af
+timeCreated: 1464278109
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63726
+  packageName: Star Nest Skybox
+  packageVersion: 1.1.1
+  assetPath: Assets/StarNestSkybox/Materials/2dMat_Odd.mat
+  uploadId: 122263

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b66e810baf1f5aa4ba70f3b98d4d0658
+timeCreated: 1445919938
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63726
+  packageName: Star Nest Skybox
+  packageVersion: 1.1.1
+  assetPath: Assets/StarNestSkybox/Materials/Extras/CrazyFractal_Hueshift.mat
+  uploadId: 122263

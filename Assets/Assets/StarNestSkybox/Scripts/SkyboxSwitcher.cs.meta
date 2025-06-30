@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7b2cf5f833d393d4cac728745f5e2574
+timeCreated: 1448690514
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63726
+  packageName: Star Nest Skybox
+  packageVersion: 1.1.1
+  assetPath: Assets/StarNestSkybox/Scripts/SkyboxSwitcher.cs
+  uploadId: 122263

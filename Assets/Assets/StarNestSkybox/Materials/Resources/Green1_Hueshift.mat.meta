@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d23ba7649688a4345a5cbba83c441e71
+timeCreated: 1445919506
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63726
+  packageName: Star Nest Skybox
+  packageVersion: 1.1.1
+  assetPath: Assets/StarNestSkybox/Materials/Resources/Green1_Hueshift.mat
+  uploadId: 122263

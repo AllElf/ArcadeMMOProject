@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42554c560692bab44948be1eca99837f
+timeCreated: 1465818532
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63726
+  packageName: Star Nest Skybox
+  packageVersion: 1.1.1
+  assetPath: Assets/StarNestSkybox/Materials/Resources/Normal_GreyBlend.mat
+  uploadId: 122263
